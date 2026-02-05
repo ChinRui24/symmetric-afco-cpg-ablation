@@ -378,3 +378,5 @@ AblationConfig(
 **最后更新**: 2026-02-05  
 **版本**: 1.0  
 **状态**: ✅ 已完成，可用于SCI论文投稿
+This repository is provided for academic and research purposes only.
+
