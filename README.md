@@ -1,4 +1,6 @@
 # Symmetric AFCO CPG Ablation Study
+This repository accompanies an ongoing research study on CPG-based
+quadruped locomotion control.
 
 This repository provides a systematic ablation study of a symmetric
 Adaptive Frequency-Controlled Oscillator (AFCO) based Central Pattern
